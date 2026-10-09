@@ -1,136 +1,197 @@
+<h2 id="français">🇫🇷 Version française</h2>
+
 <div align="center">
 
-# ⌨️ FAST
+# 🎯 FAST — Finger Accuracy Speed Trainer — MC88
 
-**A typing trainer for hands that don't fit the standard method.**
+**Entraîneur de frappe pour méthodes à 2-4 doigts.**
 
 </div>
 
+🌍 **Langues :** [Français](#français) · [English](#english)
+
 ---
+
+> **En bref** — Un outil de pratique de frappe qui n'impose pas la home row et accepte vos propres textes.
+> 
+> **Texte personnalisé · MPM et précision en direct · Suivi de vos records**
+
+<!-- 
+## 📸 Aperçu
+
+<div align="center">
+  <img src="https://github.com/mohamed005cheikh-rgb/[REPO]/raw/main/images/Sc1.png" alt="[Description]" width="100%" />
+</div>
+
+---
+
+🔗 **Démo en ligne :** [https://...](https://...)
+📦 **Code source :** [https://github.com/mohamed005cheikh-rgb/[REPO]](https://github.com/mohamed005cheikh-rgb/[REPO])
+-->
+
+## 👋 Bienvenue
+
+FAST est un entraîneur de frappe qui ne suppose pas dix doigts sur la home row. Il vous laisse taper avec la méthode qui vous convient — deux, trois ou quatre doigts. Vous pouvez utiliser un texte intégré ou coller le vôtre. Les statistiques se mettent à jour en direct, et un rapport détaillé s'affiche à la fin.
+
+---
+
+## ✨ Ce que vous trouverez
+
+**Texte intégré ou personnalisé.**  
+Un essai sur le climat est fourni, ou collez n'importe quel passage.
+
+**Statistiques en direct.**  
+MPM, précision, nombre d'erreurs, temps écoulé.
+
+**Les erreurs ne bloquent pas.**  
+Les caractères incorrects deviennent rouges mais vous continuez à taper.
+
+**Rapport de session.**  
+Erreurs corrigées, erreurs restantes, MPM net et brut.
+
+**Mode défi.**  
+Relancez le même texte avec un objectif de temps plus serré.
+
+---
+
+## 🧭 Comment ça marche
+
+**1. Choisissez un texte.**  
+Utilisez l'essai par défaut ou collez le vôtre.
+
+**2. Commencez à taper.**  
+Le chronomètre démarre à la première touche.
+
+**3. Suivez vos statistiques.**  
+MPM, précision et erreurs s'affichent en haut.
+
+**4. Consultez le rapport.**  
+À la fin, voyez votre score et lancez un défi.
+
+C'est tout. Tout reste dans votre navigateur.
+
+---
+
+## 🛠️ Petits coups de main
+
+**Dois-je utiliser dix doigts ?**  
+Non. Utilisez le nombre de doigts qui vous convient.
+
+**Puis-je sauvegarder mes propres textes ?**  
+Oui, ils sont enregistrés localement dans votre navigateur.
+
+**Est-ce que ça marche sur mobile ?**  
+Non, l'outil est conçu pour un clavier physique.
+
+**Mes données sont-elles envoyées ?**  
+Non, tout est local. Rien n'est téléchargé.
+
+---
+
+<br /><br /><br />
+
+<h2 id="english">🇬🇧 English version</h2>
+
+<div align="center">
+
+# 🎯 FAST — Finger Accuracy Speed Trainer — MC88
+
+**Typing trainer for 2-4 finger methods.**
+
+</div>
+
+🌍 **Languages:** [Français](#français) · [English](#english)
+
+---
+
+> **In short** — A typing practice tool that doesn't force home row, lets you use your own text.
+> 
+> **Custom text · Live WPM and accuracy · Personal best tracking**
+
+<!-- 
+## 📸 Preview
+
+<div align="center">
+  <img src="https://github.com/mohamed005cheikh-rgb/[REPO]/raw/main/images/Sc1.png" alt="[Description]" width="100%" />
+</div>
+
+---
+
+🔗 **Live demo:** [https://...](https://...)
+📦 **Source code:** [https://github.com/mohamed005cheikh-rgb/[REPO]](https://github.com/mohamed005cheikh-rgb/[REPO])
+-->
 
 ## 👋 Welcome
 
-Most typing trainers teach the same thing: ten fingers, home row, find the little bumps, trust the muscle memory. That advice works — for some people.
-
-It doesn't work for everyone. Some hands aren't built for it. Some people end up inventing their own way — two fingers, three fingers, thumbs on the space bar, a rhythm that isn't in any textbook but gets the words out. That's not a bad habit. It's a method.
-
-FAST was built for exactly that. You pick a passage, you type it your way, and you race your own clock until the method that belongs to your hands becomes fast. There's no shame in going back to fix a mistake with `Backspace`, no locked keyboard when you get a letter wrong, no gold star for doing it "the right way."
-
-Just you, a piece of text, and a timer that's honest with you.
-
-The full story of why I built this is written into the site itself — open it and look for *"The story behind FAST"* in the top navigation.
+FAST is a typing trainer that doesn't assume ten fingers on home row. It lets you type with the method that suits you — two, three, or four fingers. You can use a built-in text or paste your own. Stats update live, and a detailed report appears at the end.
 
 ---
-<!-- 
-## 📸 Look Inside
 
-<div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/fast-mc88/raw/main/images/Sc1.png" alt="The FAST typing screen" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/fast-mc88/raw/main/images/Sc2.png" alt="The session report" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/fast-mc88/raw/main/images/Sr1.gif" alt="Typing a passage with live feedback" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github.com/mohamed005cheikh-rgb/fast-mc88/raw/main/images/Sr2.gif" alt="Setting a challenge and racing the clock" width="100%" />
-</div>
-
----
--->
 ## ✨ What you'll find
 
-**Real text to rewrite, not random letters.**  
-The trainer starts with a built-in essay on climate change — actual sentences with meaning and structure. You can also paste your own passage: a paragraph from a book, a technical article, a speech you love. Whatever you paste is saved locally and waiting for you next time.
+**Built-in or custom text.**  
+A climate essay is provided, or paste any passage.
 
-**Feedback that never blocks you.**  
-Every character you type lights up as you go — green when it's right, red when it isn't. But a mistake doesn't stop you. The cursor keeps moving, the passage keeps flowing, and you finish the run at your own pace. If something bothers you, press `Backspace` and go back to fix it before the end. The report will tell you the difference between mistakes you cleaned up and mistakes you left behind.
+**Live statistics.**  
+WPM, accuracy, mistake count, elapsed time.
 
-**A session report that tells you the truth.**  
-Net WPM, gross WPM, final accuracy, raw keystroke accuracy, mistakes fixed versus mistakes remaining, and how this run compares to your personal best on that same text. No vanity numbers — just the real story of what happened in those seconds.
+**Mistakes don't block you.**  
+Wrong characters turn red but you keep typing.
 
-**Races against your own past.**  
-After a run, you can set a tighter target — shave off ten seconds, twenty seconds, or a custom margin — and retype the same passage against it. If you miss the goal, the report doesn't just fail you. It offers to loosen the timer and try again. That's how practice is supposed to work.
+**Session report.**  
+Corrected mistakes, remaining mistakes, net and gross WPM.
 
-**Five themes for five moods.**  
-Graphite, Paper, Midnight, Forest, and Ember. Switch from the header whenever you feel like it — the site remembers your choice between visits.
-
-**Fully offline, fully yours.**  
-Everything runs inside your browser. Your saved texts, your personal bests, your settings, your history — all of it lives in your own device. Nothing is uploaded anywhere. Nothing is shared. You can even close your internet connection and it keeps working.
-
-**Built for a real keyboard — deliberately.**  
-FAST is a desktop and laptop tool. If you open it on a phone, it politely tells you so instead of pretending to work. The whole point is training the technique that only exists when your fingers are on real keys. That's a feature, not a limitation.
+**Challenge mode.**  
+Retry the same text with a tighter time goal.
 
 ---
 
 ## 🧭 How it works
 
-**1. Open it.**  
-One file, one click. No install, no account, no setup screen. It's just there.
+**1. Choose a text.**  
+Use the default essay or paste your own.
 
-**2. Choose your text.**  
-Start with the built-in essay, or paste something of your own. If you paste, it's saved for next time.
+**2. Start typing.**  
+The timer starts on the first keystroke.
 
-**3. Type.**  
-Correct letters turn green. Mistakes turn red. Keep going. `Backspace` any time to go back and fix something before you finish.
+**3. Watch your stats.**  
+WPM, accuracy, and mistakes are shown at the top.
 
-**4. Read your report.**  
-Time, WPM, accuracy, and the honest breakdown of what you cleaned up and what stayed behind. Plus a comparison to your best run on that passage, if you've done it before.
+**4. Read the report.**  
+At the end, see your score and start a challenge.
 
-**5. Set a challenge — if you're ready.**  
-Pick a time margin and go again. Same text, tighter clock. This is where speed actually builds.
-
-**6. Change the theme whenever you like.**  
-Top-right corner. The site remembers.
-
-That's the whole loop. Nothing more to learn.
+That's it. Everything stays in your browser.
 
 ---
 
-## 🛠️ A few small helps
+## 🛠️ A little help
 
-**"It says I need a keyboard."**  
-Yes — and it's on purpose. FAST only works on a desktop or a laptop, because the whole point is training how your hands move on real keys. On a phone or tablet, the site shows a notice instead of the trainer. It's not a bug, and it isn't going to change.
+**Do I need to use ten fingers?**  
+No. Use as many fingers as you like.
 
-**"My mistakes turn red but I can still type."**  
-That's the design. The point of this trainer isn't to force a perfect run — it's to see, in real time, where you slip. If you want to go back and fix something, `Backspace` is right there. The report will tell you both numbers: what you caught, and what you missed.
+**Can I save my own texts?**  
+Yes, they are stored locally in your browser.
 
-**"What's the difference between net and gross WPM?"**  
-Gross WPM is how fast your fingers were moving. Net WPM is how fast they were moving *correctly*. The gap between them is your accuracy — and that's usually where the real growth is.
+**Does it work on mobile?**  
+No, the tool is designed for a physical keyboard.
 
-**"My best score disappeared."**  
-If you're in a private or incognito window, the browser wipes local storage the moment you close it. Use a normal window and your best runs, saved texts, and settings will all still be there.
-
-**"I want to practice a different passage."**  
-Paste anything — a paragraph, a quote, a page of code. It doesn't have to be prose. It gets saved alongside your other texts, and it gets its own personal best.
-
-**"The challenge keeps getting harder."**  
-It's supposed to. Each successful run lets you shave off a little more time. But if it ever feels impossible, the report lets you loosen the margin and try again — the goal is progress, not punishment.
+**Is my data uploaded?**  
+No, everything is local. Nothing is uploaded.
 
 ---
 
 <div align="center">
 
-### 📞 A question, an idea, a bug?
+### 📞 Une question, une idée ? / A question, an idea?
 
 [![Email](https://img.shields.io/badge/Email-mohamed005cheikh@gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohamed005cheikh@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+222_30_72_64_75-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/22230726475)
-[![GitHub](https://img.shields.io/badge/GitHub-mohamed005cheikh--rgb-181717?style=flat-square&logo=github)](https://github.com/mohamed005cheikh-rgb)
+[![GitHub](https://img.shields.io/badge/GitHub-MC--MC88-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MC-MC88)
 
 <br />
 
-*Type your way.*
+*Tapez. Mesurez. Progressez. / Type. Measure. Improve.*
 
-<sub>© 2026 Mohamed Cheikh — MC88</sub>
+<sub>MIT License · © 2026 Mohamed Cheikh — MC88</sub>
 
 </div>
